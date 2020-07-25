@@ -1,0 +1,13 @@
+.DS_Store
+*.o
+jello
+createWorld
+*.ppm
+.vscode/
+obsolete_but_maybe_useful_in_future.cpp
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+*.jpg
+animation1/
+animation2/
